@@ -14,7 +14,7 @@ An [OpenClaw](https://openclaw.ai) skill that tracks your AI agent's **return on
 **Via ClawHub:**
 
 ```bash
-openclaw skills install roi-incremental-tracking
+openclaw skills install @thiagocaltoe/roi-incremental-tracking
 ```
 
 **Manually:** copy this folder to `~/.openclaw/skills/roi-incremental-tracking/` (or `<workspace>/skills/`), then start a new session (`/new`).
