@@ -1,0 +1,5 @@
+date,cycle_start,cycle_end,title,category,minutes_saved,cash_direct,confidence,evidence,include_in_closeout,notes
+2026-06-03,2026-06-01,2026-06-30,Automated weekly sales report,automation,90,0,high,reports/sales/weekly.md,yes,Was done by hand every Monday
+2026-06-10,2026-06-01,2026-06-30,Caught duplicate supplier invoice,finance,15,250.00,high,ticket #4821,yes,Refund confirmed by supplier
+2026-06-18,2026-06-01,2026-06-30,Drafted client proposal,sales,120,0,medium,proposals/acme-v2.pdf,yes,
+2026-06-25,2026-06-01,2026-06-30,Possible churn save (renewal call prep),sales,30,0,low,call notes 06-25,no,Pending user review before counting

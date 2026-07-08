@@ -1,0 +1,7 @@
+{
+  "monthly_cost": 100.0,
+  "currency": "USD",
+  "base_hourly_value": 25.0,
+  "alternative_hourly_scenarios": [50, 100],
+  "cycle_start_day": 1
+}
